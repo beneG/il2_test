@@ -11,7 +11,6 @@ set(HEADERS ${CMAKE_CURRENT_SOURCE_DIR}/cockroach_simulator/cockroach_simulator.
 		${CMAKE_CURRENT_SOURCE_DIR}/cockroach_simulator/static_global_vars.h
 	)
 
-${CMAKE_CURRENT_SOURCE_DIR}/${CMAKE_PROJECT_NAME}.sln
 
 set(SOURCE ${CMAKE_CURRENT_SOURCE_DIR}/cockroach_simulator/cockroach_simulator.cpp) 
 	   
